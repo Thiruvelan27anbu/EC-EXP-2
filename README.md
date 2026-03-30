@@ -14,12 +14,12 @@
 
 
 ## Tabulation
+<img width="1320" height="1229" alt="image" src="https://github.com/user-attachments/assets/61a90724-382d-43f5-82fa-be5d99b18e40" />
+<img width="1320" height="1229" alt="image" src="https://github.com/user-attachments/assets/cef3dc6a-c473-4ac0-b2ed-51ecd718affc" />
 
-## Graph
-
-<img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
-
-Practical frequency of Oscillation =
+## RESULT
+<img width="1367" height="1194" alt="image" src="https://github.com/user-attachments/assets/7d540400-4144-4507-94e0-5a4e53a4c249" />
 
 
-Theoritical Frequency of Oscillation =
+
+
